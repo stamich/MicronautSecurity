@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.codeswarm
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, docker, http-client, java, java-application, junit, log4j2, maven, mongo-reactive, netty-server, reactor, readme, security, security-annotations, security-jwt, security-ldap, security-oauth2, security-session, shade, yaml ]
